@@ -1,23 +1,4 @@
 <template>
-  <div class="logo-wrapper">
-    <div
-      :class="{
-        'logo-inner': true,
-        blink: blinking
-      }"
-    >
-      <img
-        v-for="x in frames"
-        :key="x"
-        :src="`/logo-frames/logo-f${x - 1}.svg`"
-      />
-      <img
-        v-for="x in frames"
-        :key="`${x}-r`"
-        :src="`/logo-frames/logo-f${frames - x}.svg`"
-      />
-    </div>
-  </div>
   <div>
   <img src="/faoncloudlogo.jpg">
   </div>
