@@ -89,3 +89,6 @@ sw.*
 
 #Awake CMS
 static/api
+
+#FAON Cloud blog doesn't need these
+assets/
