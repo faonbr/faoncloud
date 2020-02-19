@@ -7,6 +7,11 @@ author: Felippe Oliveira Neto (FAON)
 date: 2020-02-07T00:00:01.000Z
 featureImage: /providers/posts/questionmark.jpg
 ---
+Welcome to FAON Cloud's Cloud 4 Free blog.
+
+Here you'll learn what you can do by using only "Free Tier"/"Always Free" resources from the cloud providers.
+The objective is to help you materialize your ideas buy deploying your web applications to the cloud, using cloud providers resources without paying for it.
+
 The purpose of free services ("Free Tier" or "Always Free") is to provide users with a subset of services offered to companies, which are of low processing capacity but which can be useful for people to express their ideas.
 
 In this way, the providers encourage people to put their ideas of applications, systems and services into practice and also retain their customers from the moment a new business is conceived.
@@ -23,10 +28,9 @@ Today, with the advent of cloud computing, everything is easier. Current provide
 
 In one way or another, each cloud service provider makes its resources free to the public:
 
-| ![Alibaba Cloud](free_tier_alibaba.jpg) | ![AWS](free_tier_aws.jpg) |
-|------------------------------|------------------------------|
-| ![Microsoft Azure](/providers/posts/free_tier_azure.jpg) | ![Google Cloud](/providers/posts/free_tier_gcp.jpg) |
-| ![IBM Cloud](/providers/posts/free_tier_ibm.jpg) | ![Oracle Cloud Infrastructure](/providers/posts/free_tier_oci.jpg) |
+![Alibaba Cloud](/providers/posts/free_tier_alibaba.jpg)	![AWS](/providers/posts/free_tier_aws.jpg)
+![Microsoft Azure](/providers/posts/free_tier_azure.jpg)	![Google Cloud](/providers/posts/free_tier_gcp.jpg)
+![IBM Cloud](/providers/posts/free_tier_ibm.jpg)	![Oracle Cloud Infrastructure](/providers/posts/free_tier_oci.jpg)
 
 Using only this type of services we will discover how to make applications, services, websites available, free of charge forever or for a period.
 

@@ -91,4 +91,11 @@ sw.*
 static/api
 
 #FAON Cloud blog doesn't need these
+/content/posts/built-for-speed.md
+/content/posts/comments-support.md
+/content/posts/getting-started-with-awake.md
+/content/posts/light-css-footprint.md
+/content/posts/newsletter-signup.md
+/content/posts/post-markup-and-formatting.md
+/content/posts/resourcegrid-vue.md
 

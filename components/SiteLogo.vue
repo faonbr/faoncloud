@@ -18,6 +18,9 @@
       />
     </div>
   </div>
+  <div>
+  <img src="/faoncloudlogo.jpg">
+  </div>
 </template>
 <script>
 export default {
