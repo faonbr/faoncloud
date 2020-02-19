@@ -16,7 +16,7 @@
 			<table cellspacing="10">
 				<tbody>
 					<tr>
-						<td><img src="/collaborators/aws-certified-logo_color-horz_180x30.jpg"><br><img src="/collaborators/cloud-practitioner-tag_180x16.jpg"><br><img src="/authors/solutions-architect-associate-tag_180x16.jpg"></td>
+						<td><img src="/collaborators/aws-certified-logo_color-horz_180x30.jpg"><br><img src="/collaborators/cloud-practitioner-tag_180x16.jpg"><br><img src="/collaborators/solutions-architect-associate-tag_180x16.jpg"></td>
 						<td><img src="/collaborators/oracle-cloud-infrastructure-2019-architect-associate.png"></td>
 					</tr>
 				</tbody>
