@@ -9,7 +9,7 @@ import theCMS from '../cms/netlify/cms'
  * General Site configurations
  */
 export default {
-  siteName: 'FAON Cloud',
+  siteName: 'Cloud 4 Free',
   tagline: 'Learn what you can do by using only Free Tier and Always Free resources from the cloud providers.',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
