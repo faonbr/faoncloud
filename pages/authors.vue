@@ -27,8 +27,9 @@
 			<h3>Robert Lavallie</h3>
 			<p>Robert is a great friend of mine. We worked together in the User Assistance team. We used to say that we were "Partners in Crime" (Partners in Crime, in English) because each completes the other's thinking and vice versa.</p>
 			<p>Robert collaborates with this blog by reviewing the posts and including his detailed view of the use cases, as well as helping to translate the site into English.</p>
+			<p>He's also going to write about Kubernetes.</p>
 			<br>
-			<a href="mailto:">Email</a>&nbsp;-&nbsp;<a href="https://www.linkedin.com/in/robert-la-vallie-37725243/">Linked</a>
+			<a href="mailto:tutorman10461@gmail.com">Email</a>&nbsp;-&nbsp;<a href="https://www.linkedin.com/in/robert-la-vallie-37725243/">Linked</a>
         </div>
       </template>
       <template v-slot:sidebar>

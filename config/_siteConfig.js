@@ -24,7 +24,7 @@ export default {
     },
     {
       name: 'Authors',
-      link: '/contact'
+      link: '/authors'
     },
     {
       name: 'Categories',
