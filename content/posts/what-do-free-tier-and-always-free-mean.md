@@ -4,14 +4,9 @@ subtitle: Understand what are Free Tier and Always Free resources
 category:
   - all
 author: Felippe Oliveira Neto (FAON)
-date: 2020-02-07T00:00:01.000Z
+date: 2020-01-02
 featureImage: /providers/posts/questionmark.jpg
 ---
-Welcome to FAON Cloud's Cloud 4 Free blog.
-
-Here you'll learn what you can do by using only "Free Tier"/"Always Free" resources from the cloud providers.
-The objective is to help you materialize your ideas buy deploying your web applications to the cloud, using cloud providers resources without paying for it.
-
 The purpose of free services ("Free Tier" or "Always Free") is to provide users with a subset of services offered to companies, which are of low processing capacity but which can be useful for people to express their ideas.
 
 In this way, the providers encourage people to put their ideas of applications, systems and services into practice and also retain their customers from the moment a new business is conceived.

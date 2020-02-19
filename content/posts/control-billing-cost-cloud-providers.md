@@ -4,7 +4,7 @@ subtitle: Limit the amount of your spending
 category:
   - all
 author: Felippe Oliveira Neto (FAON)
-date: 2020-07-02T00:00:01.000Z
+date: 2020-01-02
 featureImage: /providers/posts/money.jpg
 ---
 Although we will only work with "Free Tier" and "Always Free" features, it is important to set up alerts so that your monthly account in the cloud does not exceed a minimum amount.
