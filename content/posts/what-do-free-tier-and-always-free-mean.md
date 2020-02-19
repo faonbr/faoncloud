@@ -4,7 +4,7 @@ subtitle: Understand what are Free Tier and Always Free resources
 category:
   - all
 author: Felippe Oliveira Neto (FAON)
-date: 2020-01-02
+date: 2020-02-07T19:59:59.000Z
 featureImage: /providers/posts/questionmark.jpg
 ---
 The purpose of free services ("Free Tier" or "Always Free") is to provide users with a subset of services offered to companies, which are of low processing capacity but which can be useful for people to express their ideas.
@@ -28,4 +28,3 @@ Using only this type of services we will discover how to make applications, serv
 This can help you to put your ideas into practice.
 
 Let's start...
-
