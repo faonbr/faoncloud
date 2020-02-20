@@ -2,7 +2,7 @@
 title: What do Free Tier and Always Free mean?
 subtitle: Understand what are Free Tier and Always Free resources
 category:
-  - all
+  - All Cloud Providers
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-07T19:59:59.000Z
 featureImage: /providers/posts/questionmark.jpg
@@ -21,7 +21,11 @@ In the past it would be impracticable to do this without having to bear several 
 
 Today, with the advent of cloud computing, everything is easier. Current providers provide services that are affordable to the general public. What's more, these providers offer some services at no cost, allowing you to make your application or service available for free to the public.
 
-In one way or another, each cloud service provider makes its resources free to the public:
+In one way or the other, each cloud service provider makes its resources free to the public:
+
+![Alibaba Cloud](/providers/posts/free_tier_alibaba.jpg)&nbsp;&nbsp;![Amazon Web Services (AWS)](/providers/posts/free_tier_aws.jpg)<br>
+![Microsoft Azure](/providers/posts/free_tier_azure.jpg)&nbsp;&nbsp;![Google Cloud](/providers/posts/free_tier_gcp.jpg)<br>
+![IBM Cloud](/providers/posts/free_tier_ibm.jpg)&nbsp;&nbsp;![Oracle Cloud Infrastructure(OCI)](/providers/posts/free_tier_oci.jpg)
 
 Using only this type of services we will discover how to make applications, services, websites available, free of charge forever or for a period.
 

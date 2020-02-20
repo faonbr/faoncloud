@@ -2,7 +2,7 @@
 title: Control Your Billing Costs in the Cloud Providers
 subtitle: Limit the amount of your spending
 category:
-  - all
+  - All Cloud Providers
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-07T19:59:59.000Z
 featureImage: /providers/posts/money.jpg
@@ -19,14 +19,14 @@ Either way, you will be alerted by email if your spending exceeds the limit.
 
 The links below present posts for each of the cloud services that we work on this Blog:
 
-**Alibaba Cloud**: Soon to be released.
+* **Alibaba Cloud**: Soon to be released.
 
-**Amazon Web Services (AWS)**: Notify Admins when AWS Billing Costs Exceed Free Tier Layer
+* **Amazon Web Services (AWS)**: (Notify Admins when AWS Billing Costs Exceed Free Tier Layer)[/notify-admin-aws-billing-costs]
 
-**Microsoft Azure**: Soon to be released.
+* **Microsoft Azure**: Soon to be released.
 
-**Google Cloud (GCP)**: Soon to be released.
+* **Google Cloud (GCP)**: Soon to be released.
 
-**IBM Cloud**: Soon to be released.
+* **IBM Cloud**: Soon to be released.
 
-**Oracle Cloud Infrastructure (OCI)**: Notify Admins when OCI Billing Costs Exceed Free Tier Layer.
+* **Oracle Cloud Infrastructure (OCI)**: (Notify Admins when OCI Billing Costs Exceed Free Tier Layer)[/notify-admin-oci-billing-costs].
