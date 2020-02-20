@@ -75,7 +75,7 @@ Below the layer-by-layer description of the IaaS-Only architecture:
 
   * Create a regional private subnet.
 
-  * This subnet's Security List needs to contain a rule to allow egress communication to the internet through a NAT Gateway. This allows you to install O.S. and database packages directly from the internet using ``sudo yum install`` or ``apt-get install`` commands depending on the operating system.
+  * This subnet's Security List needs to contain a rule to allow egress communication to the internet through a NAT Gateway. This allows you to install O.S. and database packages directly from the internet using `sudo yum install` or `apt-get install` commands depending on the operating system.
 
   ![Backend Subnet](/uploads/oci/oci-backend-subnet-details.jpg)
 
