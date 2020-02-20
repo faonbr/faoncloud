@@ -33,4 +33,4 @@ The AWS Always free tier provides Amazon DynamoDB service, a non-relational data
 
 Let's start using the **12 months free** resources from AWS (compute and DB Services) and later explorer DynamoDB usage, because it's part of the **Always Free** tier.
 
-Continue on [Part 2](/host-apps-aws-part2)
+Continue on [Part 2](/host-apps-aws-part-2)

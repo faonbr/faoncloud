@@ -90,4 +90,4 @@ sudo firewall-cmd --reload
 
 In the above example, port 80 will be open in the O.S. firewall. Verify which port number your application and database will run and replace the value in the commands before executing it.
 
-Continue on [Part 2](host-apps-oci-part-2).
+Continue on [Part 2](/host-apps-oci-part-2).
