@@ -11,12 +11,12 @@ Let's start this topic by exploring Amazon Web Services (AWS) free tier.
 
 When you create an account in AWS, it provides you two main free-tier flavors: A set of **Always free** resources and you also get some extra resources for free for a period of time of 12 months (called **12 months free** resources).
 
-![](/providers/posts/aws/aws-always-free-12-month-free-tier.jpg)
+![cat](/providers/posts/aws/aws-always-free-12-month-free-tier.jpg)
 AWS Always Free and 12 Month Free Tiers
 
 Among the **12 months free** resources, the most used and known services (such as compute, storage, and database) have limits.  Computes and databases have runtime limits while storage gets storage-space limit.
 
-![](/providers/posts/aws/aws-12-months-free-resources.jpg)
+![cat](/providers/posts/aws/aws-12-months-free-resources.jpg)
 AWS 12 Months Free Resources
 
 * The Amazon EC2 service provides compute where you can host and run your web application code.
@@ -27,7 +27,7 @@ AWS 12 Months Free Resources
 
 The AWS Always free tier provides Amazon DynamoDB service, a non-relational database (NoSQL), which can be an excellent choice to host the web application data.
 
-![](/providers/posts/aws/aws-always-free-resources.jpg)
+![cat](/providers/posts/aws/aws-always-free-resources.jpg)
 AWS Always Free Resources
 
 * There are lots of development frameworks available in the market (depending on the programming language you choose for your web application) that can be used, but AWS provides an [SDK](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html) to integrate your web application with DynamoDB.
