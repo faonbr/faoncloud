@@ -5,7 +5,7 @@ category:
   - All Cloud Providers
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-07T19:59:59.000Z
-featureImage: /providers/posts/money.jpg
+featureImage: /uploads/money.jpg
 ---
 Although we will only work with "Free Tier" and "Always Free" features, it is important to set up billing alerts so that your monthly account in the cloud does not exceed a minimum amount.
 

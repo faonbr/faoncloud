@@ -5,7 +5,7 @@ category:
   - All Cloud Providers
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-07T19:59:59.000Z
-featureImage: /providers/posts/questionmark.jpg
+featureImage: /uploads/questionmark.jpg
 ---
 The purpose of free services ("Free Tier" or "Always Free") is to provide users with a subset of services offered to companies, which are of low processing capacity but which can be useful for people to express their ideas.
 
