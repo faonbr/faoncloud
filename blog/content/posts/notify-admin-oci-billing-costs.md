@@ -5,7 +5,7 @@ category:
   - Oracle Cloud
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-10T19:59:59.000Z
-featureImage: /providers/logos/aws.jpg
+featureImage: /providers/logos/oci.jpg
 ---
 To create an excessive cost alert on OCI, access the console with your root account (the email you used when you created your Oracle Cloud account), expand the console menu (top left corner), click **Account Management** (under Governance and Administration), and then click **Budgets**.
 

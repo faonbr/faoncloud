@@ -5,7 +5,7 @@ category:
   - Oracle Cloud
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-10T19:59:59.000Z
-featureImage: /providers/logos/aws.jpg
+featureImage: /providers/logos/oci.jpg
 ---
 Before creating Free Tier / Always Free resources (Computes, Storages, Network, ...) in Oracle Cloud Infrastructure (OCI) it is important to create users and configure access policies so that these users can manage these resources.
 
