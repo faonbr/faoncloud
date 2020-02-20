@@ -23,9 +23,9 @@ Today, with the advent of cloud computing, everything is easier. Current provide
 
 In one way or the other, each cloud service provider makes its resources free to the public:
 
-![Alibaba Cloud](/providers/posts/free_tier_alibaba.jpg)&nbsp;&nbsp;![Amazon Web Services (AWS)](/providers/posts/free_tier_aws.jpg)<br>
-![Microsoft Azure](/providers/posts/free_tier_azure.jpg)&nbsp;&nbsp;![Google Cloud](/providers/posts/free_tier_gcp.jpg)<br>
-![IBM Cloud](/providers/posts/free_tier_ibm.jpg)&nbsp;&nbsp;![Oracle Cloud Infrastructure(OCI)](/providers/posts/free_tier_oci.jpg)
+![Alibaba Cloud](/uploads/free_tier_alibaba.jpg)&nbsp;&nbsp;![Amazon Web Services (AWS)](/uploads/free_tier_aws.jpg)<br>
+![Microsoft Azure](/uploads/free_tier_azure.jpg)&nbsp;&nbsp;![Google Cloud](/uploads/free_tier_gcp.jpg)<br>
+![IBM Cloud](/uploads/free_tier_ibm.jpg)&nbsp;&nbsp;![Oracle Cloud Infrastructure(OCI)](/uploads/free_tier_oci.jpg)
 
 Using only this type of services we will discover how to make applications, services, websites available, free of charge forever or for a period.
 

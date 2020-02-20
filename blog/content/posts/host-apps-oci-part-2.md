@@ -7,7 +7,7 @@ author: Felippe Oliveira Neto (FAON)
 date: 2020-02-15T19:59:59.000Z
 featureImage: /providers/logos/oci.jpg
 ---
-In the first part of this topic ([Part 1](host-apps-oci-part-1)), we introduced the 1st option of infrastructure architecture using Oracle Cloud Always resources that you can use to deploy your CRUD web application to the internet. This architecture was called "IaaS-Only".
+In the first part of this topic ([Part 1](/host-apps-oci-part-1)), we introduced the 1st option of infrastructure architecture using Oracle Cloud Always resources that you can use to deploy your CRUD web application to the internet. This architecture was called "IaaS-Only".
 
 As the second option of architecture, instead of using an always free compute to host the application database you can make use of Oracle Autonomous Database Always Free. We call this architecture "IaaS-DBServices".
 
@@ -15,7 +15,7 @@ As the second option of architecture, instead of using an always free compute to
 
 The IaaS-DBServices architecture uses an instance of **Autonomous Transaction Process** (ATP) to host the web application data.
 
-![IaaS-DBServices Architecture](/providers/posts/oci/oci-iaas-dbservices-architecture.jpg)
+![IaaS-DBServices Architecture](/uploads/oci/oci-iaas-dbservices-architecture.jpg)
 
 By using this architecture, it isn't necessary to create the infrastructure for the database, because the Autonomous database services is a serverless service and Oracle handles the infrastructure.
 
@@ -23,7 +23,7 @@ This allows the architect to make use of the backend server to another purpose, 
 
 1. In the first option, you create two frontend servers in the frontend subnet, and then set up the load balancer's Backend Set to distribute the load between the two instances.
 
-  ![Frontend Subnet](/providers/posts/oci/oci-frontend-subnet-2-details.jpg)
+  ![Frontend Subnet](/uploads/oci/oci-frontend-subnet-2-details.jpg)
 
   After you create the first compute, execute all the required steps to configure the instance, such as update the operating system, install application packages, binaries, and then deploy the application to the instance's boot volume.
 
@@ -31,7 +31,7 @@ This allows the architect to make use of the backend server to another purpose, 
 
 2. If your requirement is to have a REST API interface for your web application or expose a REST API to the internet, then you can use the available compute as a backend server.
 
-  ![Backend Subnet](/providers/posts/oci/oci-backend-subnet-2-details.jpg)
+  ![Backend Subnet](/uploads/oci/oci-backend-subnet-2-details.jpg)
 
   As in the IaaS-Only architecture, the access to the backend server needs to be made through the bastion host (frontend server).
 
@@ -45,7 +45,7 @@ The same concepts and patterns which are applied to the IaaS-Only architecture c
 
 * Make sure to select the Always Free flag during the creation process. The database capacity will be limited and some stop/terminate rules will be presented to you on the screen.
 
-  ![ATP Always Free flag](oci-atp-always-free-flag.jpg)
+  ![ATP Always Free flag](/uploads/oci/oci-atp-always-free-flag.jpg)
 
 * Configure Access Control Rules to restrict the access to the database from within the Virtual Cloud Network (VCN). Choose your VCN's compartment and then choose the web application's VCN.
 

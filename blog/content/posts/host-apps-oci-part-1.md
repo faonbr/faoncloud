@@ -9,7 +9,7 @@ featureImage: /providers/logos/oci.jpg
 ---
 Oracle Cloud provides a set of resources in their "Always Free" layer which can be used to deploy web applications or REST services to access from the internet.
 
-![OCI Always Free Tier](/providers/posts/oci/oci-always-free-tier.jpg)
+![OCI Always Free Tier](/uploads/oci/oci-always-free-tier.jpg)
 
 The time I wrote this post, the Always Free layer was made of 2 computes, 2 autonomous databases (ADW or ATP), storage, virtual private cloud (VPC), and load balancer (LBR). Those resources are available to be used (with restrictions and limits) without any cost.
 
@@ -19,7 +19,7 @@ This post is part 1 of a series of posts and presents an infrastructure architec
 
 Below is a high-level graph representation of the infrastructure for a CRUD (Create/Read/Update/Delete) web application made by a frontend server and a backend/database server.
 
-![OCI IaaS-Only Architecture](/providers/posts/oci/oci-iaas-total-architecture.jpg)
+![OCI IaaS-Only Architecture](/uploads/oci/oci-iaas-total-architecture.jpg)
 
 By using this architecture, named "_IaaS-Only Architecture_", administrators and architects have full control of the infrastructure (network, operational system, package versions required by the application) that supports the application.
 
@@ -39,7 +39,7 @@ Below the layer-by-layer description of the IaaS-Only architecture:
 
   * Make sure to select a compartment where the VCN and the entire infrastructure will be held. See Configure Access to Free Tier Resources in Oracle Cloud (OCI).
 
-  ![Always Free Label](/providers/posts/oci/oci-always-free-shape-labeled.jpg)
+  ![Always Free Label](/uploads/oci/oci-always-free-shape-labeled.jpg)
 
 * **Load Balancer Subnet (LBR)**: It's where you deploy the load balancer of the web application.
 
@@ -55,7 +55,7 @@ Below the layer-by-layer description of the IaaS-Only architecture:
 
   * If you have security requirements to use SSL to access your application, install the certificate in the load balancer and configure the listener to listen on port number 443.
 
-  ![LBR Subnet](/providers/posts/oci/oci-lbr-subnet-details.jpg)
+  ![LBR Subnet](/uploads/oci/oci-lbr-subnet-details.jpg)
 
 * **Frontend Subnet**: Deploy the frontend server (compute) to host your web application in this subnet.
 
@@ -69,7 +69,7 @@ Below the layer-by-layer description of the IaaS-Only architecture:
 
   * Create a Security Rule to allow communication between the frontend and the backend subnets. This allows you to SSH to the backend server, from the bastion host locate in the frontend subnet.
 
-  ![Frontend Subnet](/providers/posts/oci/oci-frontend-subnet-details.jpg)
+  ![Frontend Subnet](/uploads/oci/oci-frontend-subnet-details.jpg)
 
 * **Backend Subnet**: Deploy the backend server (compute) here to host the database of the web application. You can also use this server to host REST API server to be used by the frontend server.
 
@@ -77,7 +77,7 @@ Below the layer-by-layer description of the IaaS-Only architecture:
 
   * This subnet's Security List needs to contain a rule to allow egress communication to the internet through a NAT Gateway. This allows you to install O.S. and database packages directly from the internet using ``sudo yum install`` or ``apt-get install`` commands depending on the operating system.
 
-  ![Backend Subnet](/providers/posts/oci/oci-backend-subnet-details.jpg)
+  ![Backend Subnet](/uploads/oci/oci-backend-subnet-details.jpg)
 
 The frontend and backend servers (computes) must be deployed in their respective subnets. Chose the platform image (operational system) which suits you the best. For example: Ubuntu, CentOS, or Oracle Linux.
 
