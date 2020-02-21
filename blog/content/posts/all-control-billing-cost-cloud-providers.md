@@ -21,7 +21,7 @@ The links below present posts for each of the cloud services that we work on thi
 
 * **Alibaba Cloud**: Soon to be released.
 
-* **Amazon Web Services (AWS)**: (Notify Admins when AWS Billing Costs Exceed Free Tier Layer)[/notify-admin-aws-billing-costs]
+* **Amazon Web Services (AWS)**: (Notify Admins when AWS Billing Costs Exceed Free Tier Layer)[/aws-notify-admin-billing-costs]
 
 * **Microsoft Azure**: Soon to be released.
 
@@ -29,4 +29,4 @@ The links below present posts for each of the cloud services that we work on thi
 
 * **IBM Cloud**: Soon to be released.
 
-* **Oracle Cloud Infrastructure (OCI)**: (Notify Admins when OCI Billing Costs Exceed Free Tier Layer)[/notify-admin-oci-billing-costs].
+* **Oracle Cloud Infrastructure (OCI)**: (Notify Admins when OCI Billing Costs Exceed Free Tier Layer)[/oci-notify-admin-billing-costs].

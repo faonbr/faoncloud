@@ -7,7 +7,7 @@ author: Felippe Oliveira Neto (FAON)
 date: 2020-02-15T19:59:59.000Z
 featureImage: /providers/logos/oci.jpg
 ---
-In the first part of this topic ([Part 1](/host-apps-oci-part-1)), we introduced the 1st option of infrastructure architecture using Oracle Cloud Always resources that you can use to deploy your CRUD web application to the internet. This architecture was called "IaaS-Only".
+In the first part of this topic ([Part 1](/oci-host-apps-part-1)), we introduced the 1st option of infrastructure architecture using Oracle Cloud Always resources that you can use to deploy your CRUD web application to the internet. This architecture was called "IaaS-Only".
 
 As the second option of architecture, instead of using an always free compute to host the application database you can make use of Oracle Autonomous Database Always Free. We call this architecture "IaaS-DBServices".
 
@@ -37,7 +37,7 @@ This allows the architect to make use of the backend server to another purpose, 
 
 The same concepts and patterns which are applied to the IaaS-Only architecture can be applied to this IaaS-DBServices architecture. Though it's important to mention:
 
-* It's highly recommended to create a separate compartment for the database. By using a separate compartment, it's possible to segregate the administrative access to the database from the rest of the infrastructure resources by using policies in the IAM. See [Configure Access to Free Tier Resources in Oracle Cloud (OCI)](/provide-access-resources-oci).
+* It's highly recommended to create a separate compartment for the database. By using a separate compartment, it's possible to segregate the administrative access to the database from the rest of the infrastructure resources by using policies in the IAM. See [Configure Access to Free Tier Resources in Oracle Cloud (OCI)](/oci-provide-access-resources).
 
 * Make sure to select the database compartment during the autonomous database creation process.
 

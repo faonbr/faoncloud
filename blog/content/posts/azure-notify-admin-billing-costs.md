@@ -9,5 +9,6 @@ featureImage: /providers/logos/azure.jpg
 ---
 To create an budget alert on Microsoft Azure, access the console with your root account (the email you used when you created your Azure account),
 
+TBC
 
 Now every time your consumption of Azure resources exceeds the mark established in the alarm, you will receive a notification email alerting the high cost.
