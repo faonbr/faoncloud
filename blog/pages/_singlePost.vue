@@ -13,7 +13,7 @@
     </site-hero>
     <main-section :one-column-constrained="true">
       <template v-slot:default>
-        <div class="post-wrapper">
+        <div class="post-wrapper" align="justify">
           <markdown :markdown="$store.state.content" />
           <div class="other-posts">
             <h6 class="subtitle is-size-4">
