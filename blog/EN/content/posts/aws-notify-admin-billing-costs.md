@@ -7,7 +7,7 @@ author: Felippe Oliveira Neto (FAON)
 date: 2020-02-10T19:59:59.000Z
 featureImage: /providers/logos/aws.jpg
 ---
-To create an excessive cost alert on AWS, access the console with your root account (the email you used when you created your AWS account), click on **Services** at the top and filter the search for "cloudwatch" (service listed in **Management & Governance**).
+To create an excessive cost alert on AWS, access the console with your root account (the email you used when you signed up AWS), click on **Services** at the top and filter the search for "cloudwatch" (service listed in **Management & Governance**).
 
 On the side menu of the **CloudWatch** page, click on **Alarms**, and then create an alarm with the following settings:
 

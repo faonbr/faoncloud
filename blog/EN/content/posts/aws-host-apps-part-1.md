@@ -19,9 +19,11 @@ Among the **12 months free** resources, the most used and known services (such a
 
 * The Amazon EC2 service provides compute where you can host and run your web application code.
 
-* A 750 hours limit is established and that represents exactly 31 days and 6 hours. Enough time to keep your web application up and running for a year. Hence, you have one year to collect money to keep your application up and running for the subsequent years, after the 12-month free period ends.
+* For EC2, a 750 hours compute time limit is established as the sum of all compute instances you have. This limit represents exactly 31 days and 6 hours. This is enough time to keep your web application up and running 24/7 in a single compute instance for a year.
 
-* To host your web application data, you can make use of the **Amazon RDS** service. The Amazon RDS contains some database flavors, but to keep the choice within the 12-month-free tier use **Amazon Aurora**, and then set it up with a **Dev/Test** template and a **DB instance size** of **db.t2.micro**.
+  This way, you have one year to collect money to keep your application up and running for the subsequent years, after the 12-month free period ends.
+
+* To host your web application's data, you can make use of the **Amazon RDS** service. The Amazon RDS contains some database flavors, but to keep the choice within the 12-month-free tier use **Amazon Aurora**, and then set it up with a **Dev/Test** template and a **DB instance size** of **db.t2.micro**.
 
 The AWS Always free tier provides Amazon DynamoDB service, a non-relational database (NoSQL), which can be an excellent choice to host the web application data.
 

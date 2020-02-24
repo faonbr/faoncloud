@@ -19,7 +19,7 @@ This post is part 1 of a series of posts and presents an infrastructure architec
 
 Below is a high-level graph representation of the infrastructure for a CRUD (Create/Read/Update/Delete) web application made by a frontend server and a backend/database server.
 
-![OCI IaaS-Only Architecture](/uploads/oci/oci-iaas-total-architecture.jpg)
+![OCI IaaS-Only Architecture](/uploads/oci/oci-iaas-only-architecture.jpg)
 
 By using this architecture, named "_IaaS-Only Architecture_", administrators and architects have full control of the infrastructure (network, operational system, package versions required by the application) that supports the application.
 

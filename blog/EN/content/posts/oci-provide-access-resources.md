@@ -1,13 +1,13 @@
 ---
 title: Configure Access to Free Tier Resources in Oracle Cloud (OCI)
-subtitle: Configure a billing alarm in Oracle Cloud (OCI).
+subtitle: Create users to manage Oracle Cloud (OCI) resources.
 category:
   - Oracle Cloud
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-10T19:59:59.000Z
 featureImage: /providers/logos/oci.jpg
 ---
-Before creating Free Tier / Always Free resources (Computes, Storages, Network, ...) in Oracle Cloud Infrastructure (OCI) it is important to create users and configure access policies so that these users can manage these resources.
+Before creating Free Tier / Always Free resources (Computes, Storages, Network, …) in Oracle Cloud Infrastructure (OCI) it is important to create users and configure access policies so that these users can manage these resources.
 
 Therefore, it is necessary to understand the concept of compartments introduced by the OCI.
 
