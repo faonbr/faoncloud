@@ -21,12 +21,12 @@ The links below present posts for each of the cloud services that we work on thi
 
 * **Alibaba Cloud**: Soon to be released.
 
-* **Amazon Web Services (AWS)**: (Notify Admins when AWS Billing Costs Exceed Free Tier Layer)[/aws-notify-admin-billing-costs]
+* **Amazon Web Services (AWS)**: [Notify Admins when AWS Billing Costs Exceed Free Tier Layer](/aws-notify-admin-billing-costs).
 
-* **Microsoft Azure**: Soon to be released.
+* **Microsoft Azure**: [Notify Admins when Azure Billing Costs Exceed Free Tier Layer](/azure-notify-admin-billing-costs)/
 
 * **Google Cloud (GCP)**: Soon to be released.
 
 * **IBM Cloud**: Soon to be released.
 
-* **Oracle Cloud Infrastructure (OCI)**: (Notify Admins when OCI Billing Costs Exceed Free Tier Layer)[/oci-notify-admin-billing-costs].
+* **Oracle Cloud Infrastructure (OCI)**: [Notify Admins when OCI Billing Costs Exceed Free Tier Layer](/oci-notify-admin-billing-costs).
