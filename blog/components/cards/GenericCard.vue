@@ -45,7 +45,7 @@
   </div>
 </template>
 <script>
-const imageDimensionDefault = '16x9'
+const imageDimensionDefault = '2x1'
 export default {
   props: {
     title: { type: String, default: '' },
