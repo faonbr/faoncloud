@@ -34,7 +34,7 @@ export default {
   width: 200px;
   .logo-inner {
     position: absolute;
-    height: 500px;
+    height: 300px;
     img {
       display: block;
       height: 40px;
