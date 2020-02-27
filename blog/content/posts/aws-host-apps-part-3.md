@@ -97,3 +97,14 @@ After you have set up your application layer as per the **IaaS-Only-Single-Serve
     AWS DynamoDB [Developer Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.html) provides examples of other query-functions, as well as how to use the SDK for other programming languages.
 
 I personally think this approach (using DynamoDB as the data source for your application) is better than the IaaS-only approach not only because you can keep your frontend instance running 24/7 for an year for free (at least), but also because you don't need to deal with the underlining infrastructure for the database tier and rely on Amazon serverless service for it.
+
+**IaaS-DBServices Architecture**:
+
+You can use **Amazon RDS*** to store your application data. The infrastructure for this architecture would be quite similar to the IaaS-DynamoDB one, except that instead of using DynamoDB, you would use Amazon RDS.
+
+![Frontend Subnet details](/uploads/aws/aws-iaas-dbservices-architecture.jpg)
+
+For this approach, keep in mind that **Amazon RDS** is part of the **12 months free** tier, and the limits is "_750 Hours
+per month of db.t2.micro database usage (applicable DB engines)_". Which means that not all database flavors are supported in the free tier, but **Amazon Aurora** is but data transfer out of the database is charged.
+
+Also, if you follow this approach  make sure to assign "_AmazonRDSFullAccess_" policy to the IAM Role that you assign to the EC2 instance.
