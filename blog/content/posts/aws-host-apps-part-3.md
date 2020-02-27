@@ -1,6 +1,6 @@
 ---
 title: Host Applications in AWS Using Free Tier Resources (Part 3)
-subtitle: This is the 3rd part of the Host Applications in AWS series.
+subtitle: Use Amazon DynamoDB as database for your Web Application.
 category:
   - AWS
 author: Felippe Oliveira Neto (FAON)

@@ -1,6 +1,6 @@
 ---
 title: Host Applications in AWS Using Free Tier Resources (Part 2)
-subtitle: This is the 2nd part of the Host Applications in AWS series.
+subtitle: Use Amazon EC2 instance(s) to host your application and database.
 category:
   - AWS
 author: Felippe Oliveira Neto (FAON)
