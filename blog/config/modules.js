@@ -42,7 +42,7 @@ export const modulesSettings = {
     name: 'uploads/[hash:7]-[width].[ext]',
     min: 320, // minimum image width generated (default 640)
     max: 640, // maximum image width generated (default 1800)
-    steps: 3, // five sizes per image will be generated (default 4)
+    steps: 5, // five sizes per image will be generated (default 4)
     placeholder: false, // no placeholder will be generated
     quality: 65, // images are compressed with medium quality
     adapter: require('responsive-loader/sharp'),
