@@ -1,6 +1,6 @@
 <template>
   <div id="home-page" class="page-wrapper home-page">
-    <site-hero :title="title" :subtitle="subtitle" :image="featureImage" />
+    <site-hero :title="title" :subtitle="subtitle" :image="featureImage"/>
     <main-section theme="one-column">
       <template v-slot:default>
         <!-- All Posts -->
@@ -24,6 +24,9 @@ export default {
     return {
       title: `Home | ${this.$siteConfig.siteName}`
     }
+  },
+  components: {
+    NewsLetterFormModal
   },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])
