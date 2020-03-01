@@ -23,13 +23,13 @@ Among the **12 months free** resources, the most used and known services (such a
 
   This way, you have one year to collect money to keep your application up and running for the subsequent years, after the 12-month free period ends.
 
-* To host your web application's data, you can make use of the **Amazon RDS** service. The Amazon RDS contains some database flavors, but to keep the choice within the 12-month-free tier use **Amazon Aurora**, and then set it up with a **Dev/Test** template and a **DB instance size** of **db.t2.micro**.
+* To host your web application's data, you can make use of the **Amazon RDS** service. **Amazon RDS** contains some database flavors, but to keep the choice within the 12-month-free tier use **Amazon Aurora**, and then set it up with a **Dev/Test** template and a **DB instance size** of **db.t2.micro**.
 
-The AWS Always free tier provides Amazon DynamoDB service, a non-relational database (NoSQL), which can be an excellent choice to host the web application data.
+The AWS Always free tier provides **Amazon DynamoDB** service, a non-relational database (NoSQL), which can be an excellent choice to host the web application data.
 
 ![AWS Always Free Resources](/uploads/aws/aws-always-free-resources.jpg)
 
-* There are lots of development frameworks available in the market (depending on the programming language you choose for your web application) that can be used, but AWS provides an [SDK](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html) to integrate your web application with DynamoDB.
+* There are lots of development frameworks available on the market (depending on the programming language you choose for your web application) that can be used, but AWS provides an [SDK](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html) to integrate your web application with DynamoDB.
 
 * [AWS documentation](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.html) also provides code examples explaining how to perform create, read, update, and delete operations in DynamoDB using [Java](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Java.03.html), [Node.js](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NodeJs.03.html), [Python](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Python.03.html), [PHP](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.PHP.03.html), [Ruby](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.Ruby.03.html), and [.NET](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/GettingStarted.NET.html).
 

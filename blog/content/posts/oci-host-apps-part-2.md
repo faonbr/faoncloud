@@ -21,7 +21,7 @@ By using this architecture, it isn't necessary to create the infrastructure for 
 
 This allows the architect to make use of the backend server to another purpose, such as host the web application and make use of the load balancer to balance requests between the two instances; or use to host a REST API interface.
 
-1. In the first option, you create two frontend servers in the frontend subnet, and then set up the load balancer's Backend Set to distribute the load between the two instances.
+1. In the first option, you create two frontend servers in the frontend subnet, and then set up the load balancer's **Backend Set** to distribute the load between the two instances.
 
   ![Frontend Subnet](/uploads/oci/oci-frontend-subnet-2-details.jpg)
 
@@ -43,11 +43,11 @@ The same concepts and patterns which are applied to the IaaS-Only architecture c
 
 * For a CRUD web application use an **Autonomous Transaction Processing** (ATP) instance.
 
-* Make sure to select the Always Free flag during the creation process. The database capacity will be limited and some stop/terminate rules will be presented to you on the screen.
+* Make sure to select the **Always Free** flag during the creation process. The database capacity will be limited and some stop/terminate rules will be presented to you on the screen.
 
   ![ATP Always Free flag](/uploads/oci/oci-atp-always-free-flag.jpg)
 
-* Configure Access Control Rules to restrict the access to the database from within the Virtual Cloud Network (VCN). Choose your VCN's compartment and then choose the web application's VCN.
+* Configure **Access Control Rules** to restrict the access to the database from within the Virtual Cloud Network (VCN). Choose your VCN's compartment and then choose the web application's VCN.
 
 * To allow you to connect from your desktop and execute the initial database set up (table creation and data insertion), make sure to add an **Access Control List** to allow access from the internet (IP Address _0.0.0.0/0_).
 
