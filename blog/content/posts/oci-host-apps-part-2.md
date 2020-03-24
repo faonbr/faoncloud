@@ -2,7 +2,7 @@
 title: Host Applications in Oracle Cloud Using Free Tier Resources (Part 2)
 subtitle: This is the 2nd part of the Host Applications in Oracle Cloud series.
 category:
-  - Oracle Cloud
+  - oci
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-15T19:59:59.000Z
 featureImage: /providers/logos/oci.jpg

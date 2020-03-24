@@ -2,7 +2,7 @@
 title: Control Your Billing Costs in the Cloud Providers
 subtitle: Limit the amount of your spending
 category:
-  - All Cloud Providers
+  - all
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-07T19:59:59.000Z
 featureImage: /uploads/money.jpg

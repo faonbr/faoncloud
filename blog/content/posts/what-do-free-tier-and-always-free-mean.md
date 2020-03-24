@@ -2,7 +2,7 @@
 title: What do Free Tier and Always Free mean?
 subtitle: Understand what are Free Tier and Always Free resources
 category:
-  - All Cloud Providers
+  - all
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-07T19:59:59.000Z
 featureImage: /uploads/questionmark.jpg

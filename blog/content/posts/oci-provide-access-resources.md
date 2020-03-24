@@ -2,7 +2,7 @@
 title: Configure Access to Free Tier Resources in Oracle Cloud (OCI)
 subtitle: Create users to manage Oracle Cloud (OCI) resources.
 category:
-  - Oracle Cloud
+  - oci
 author: Felippe Oliveira Neto (FAON)
 date: 2020-02-10T19:59:59.000Z
 featureImage: /providers/logos/oci.jpg

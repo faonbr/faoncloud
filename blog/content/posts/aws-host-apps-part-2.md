@@ -67,7 +67,7 @@ In order to keep your spending in the free tier and because of the 750-hours-of-
 
     In the VPC Dashboard page, click **Launch VPC Wizard**, and select the template **VPC with a Public and Private Subnet**.
 
-    In the wizard provide the **VPC name** as "_Free Tier VPC_", select an **Availability Zone** for both public and private subnet, rename the public as "_Frontend Subnet_" and the private subnet as "_Backend Subnet_", select the elastic IP address for the NAT Gateway, and then click **Create VPC**.
+    In the wizard provide the **VPC name** as "_Free Tier VPC_", select an **Availability Zone** for both public and private subnet, rename the public subnet as "_Frontend Subnet_" and the private subnet as "_Backend Subnet_", select the elastic IP address for the NAT Gateway, and then click **Create VPC**.
 
     After the service is created, click **OK** to see the details of the newly created VPC.
 
