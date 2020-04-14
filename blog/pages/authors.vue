@@ -15,7 +15,8 @@
     			<p>After the years of consulting, I dedicated the following 3 years to creating and publishing tutorials, videos about the use case for the platform service (PaaS) Oracle Identity Cloud Service in the Oracle User Assistance team.</p>
     			<p>From 2019, I focused on studies and learning at the various cloud infrastructure providers (IaaS).</p>
     			<p>With the studies, I obtained the certifications of architect Oracle Cloud Infrastructure and Amazon Web Services in the beginning of 2020.</p>
-    			<table cellspacing="10">
+          <p>Nowadays I work for TOTVS, in the retail LOB, as software developer specialist for Omni Channel.</p> 
+          <table cellspacing="10">
     				<tbody>
     					<tr>
     						<td align="center"><img src="/collaborators/aws-certified-logo_color-horz_180x30.jpg"><br><img src="/collaborators/cloud-practitioner-tag_180x16.jpg"><br><img src="/collaborators/solutions-architect-associate-tag_180x16.jpg"></td>
